@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CounterSteps</string>
+    <string name="fit_cycling">Cycling</string>
+    <string name="fit_running">Running</string>
+    <string name="step_counter">
+         android.hardware.sensor.stepcounter
+    </string>
+    <string name="step_detector">
+         android.hardware.sensor.stepdetector
+    </string>
+    <string name="text1">Enter the information</string>
+    <string name="text2">Steps</string>
+    <string name="text3">Calories</string>
+</resources>
